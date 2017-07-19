@@ -1,0 +1,71 @@
+
+h1{
+	font-family: 'Helvetica', serif;
+	font-size: 36px;
+	color: #000;
+	margin:0;
+	position::relative;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Helvetica';
+	font-szie: 16;
+	text-align:center;
+}
+div.byline{
+	text-align: center;
+}
+ div.wrapper{
+ 	float:left;
+ 	margin:10px;
+ 	margin:0 auto;
+ 	width:67%;
+ 	text-align:center;
+ }
+
+ 	div.caption{  
+    position:relative; 
+    bottom:0px;  
+    left:0px;  
+    width:100%; 
+    text-align: center; 
+    
+    background-color:white;  
+    font-family: 'tahoma';  
+    font-size:15px;  
+    color:black;  
+    opacity:0.6;   
+    filter:alpha(opacity=60); 
+}  
+
+div.credit{  
+    position:absolute;
+    text-align: center; 
+    top:0px;  
+    right:0px;  
+    width:100%;  
+   
+
+} 
+
+
+img {
+  width: 80%;
+
+}
+
+
+p{
+font-family: 'Georgia', 'Times', serif;
+font-size:18px;
+margin:0;
+font-weight:100;
+line-height:1.7em;
+text-align:left;
+width:100%;
+}
+
+
+
+
